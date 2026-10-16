@@ -1,0 +1,10 @@
+[project]
+name = "titanic-autoresearch"
+version = "0.1.0"
+description = "Agent-driven Titanic experiments with scikit-learn"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.0,<3",
+    "pandas>=2.2,<3",
+    "scikit-learn>=1.6,<2",
+]
